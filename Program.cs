@@ -27,11 +27,11 @@ namespace teste1
                             Console.WriteLine("-----------CLIENTE-----------");
                             Console.WriteLine();
                         
-                            AddCliente NovoCliente = new AddCliente();
+                            AddCliente NovoCliente = new  AddCliente();
                             Console.Write("  Cadastrar Cliente:  ");
-                            NovoCliente.SetNome(Console.ReadLine());
+                            NovoCliente.Nome = Console.ReadLine();
                             Console.Write("  Adicione o Tipo do CLiente: Empresa(1) - Pessoa(2)   ");
-                            NovoCliente.SetType(int.Parse(Console.ReadLine()));
+                            NovoCliente.Type = int.Parse(Console.ReadLine());
 
                             Console.WriteLine(NovoCliente.Post());
 

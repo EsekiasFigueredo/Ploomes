@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj": {}
+    "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\TesteApiPloomes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj": {
+    "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\TesteApiPloomes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj",
+        "projectUniqueName": "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\TesteApiPloomes.csproj",
         "projectName": "TesteApiPloomes",
-        "projectPath": "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj",
+        "projectPath": "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\TesteApiPloomes.csproj",
         "packagesPath": "C:\\Users\\Esequias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\obj\\",
+        "outputPath": "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

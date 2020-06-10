@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CbN1u8u2qL+sjWtBMbgDHmXHfoykuK+L5O8h4B25gBsHU5qX1pzs3QZsRxU30Fd8ESjiHQlRkHIWmv8YFAY3Vg==",
+  "dgSpecHash": "q2/W2CVNcRxD/qegMRKf7rJ8swyt+HP+DjyLFHaDNbKwWVYVNodm4aqcb5zH+Fk61bzTF5VKFZNURyMZCV5XsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj",
+  "projectFilePath": "C:\\Users\\Esequias\\Documents\\GitHub\\PloomesApi\\TestePloomes\\TesteApiPloomes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
     "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",

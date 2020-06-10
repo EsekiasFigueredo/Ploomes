@@ -1,59 +1,40 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using RestSharp;
 using System;
-using System.Collections.Generic;
-using System.Linq.Expressions;
-using System.Text;
-using RestSharp.Deserializers;
 
-namespace teste1
+
+class AddCliente
 {
-    class AddCliente
-    {   
-        [JsonProperty("Name")]
-        private string Name;
-        [JsonProperty("TypeId")]
-        private int TypeId;
+    public string Nome { get; set; }
+    public int Type { get; set; }
 
-        public void SetNome(string nome)
+
+    public string Post()
+    {
+
+        try
         {
-            this.Name = nome;
+            var client = new RestClient("https://api2.ploomes.com/Contacts?$select=Name,Id");
+            client.Timeout = -1;
 
+            var request = new RestRequest(Method.POST);
+            request.AddHeader("User-Key", "586341D988E1F74999493B348F11082A5AA487DE656804469F0283080433608C366F95EDF05AEB83B5F45B2AA8CC37DB43291456C327E51AE4F09B265AC0D4DF");
+            request.AddHeader("Content-Type", "application/json");
+
+            var json = "{ 'Name':" + "'" + this.Nome + "'" + ", 'TypeId':" + this.Type + ", 'ContactId':" + this.Type + " }";
+
+            request.AddParameter("application/json", json, ParameterType.RequestBody);
+            IRestResponse response = client.Execute(request);
+
+            var convert = response.Content;
+            dynamic text = JsonConvert.DeserializeObject<dynamic>(convert);
+            return Convert.ToString(text);
         }
-        public void SetType(int type)
-        {
-            this.TypeId = type;
-        }
-
-
-        public string Post()
+        catch (Exception e)
         {
 
-            try
-            {
-                var client = new RestClient("https://api2.ploomes.com/");
-                client.Timeout = -1;
-                var request = new RestRequest("Contacts?$select=Name,Id", Method.POST);
-                request.AddHeader("User-Key", "0DC60641F5F1E159A95D21E10C6CB2CC5567E03C1B066BD42FFDA749EB87991AA153675649DEB091B7CE75DE7A79633EB6545DB770A98BBC65AC00699B92BEBB");
-                request.AddHeader("Content-Type", "application/json");
-
-                var json = "{ 'Name':" + "'" + this.Name + "'" + ", 'TypeId':" + this.TypeId +" }" ;
-
-                request.AddParameter("application/json", json, ParameterType.RequestBody);
-                IRestResponse response = client.Execute(request);
-
-                var convert = response.Content;
-                dynamic text = JsonConvert.DeserializeObject<dynamic>(convert);
-                return Convert.ToString(text);
-            }
-            catch (Exception e)
-            {
-
-                return Convert.ToString("ERROR NO CADASTRO!!   " + e.Message);
-            }
-
+            return Convert.ToString("ERROR NO CADASTRO!!   " + e.Message);
         }
 
-       
-    }   
+    }
 }
