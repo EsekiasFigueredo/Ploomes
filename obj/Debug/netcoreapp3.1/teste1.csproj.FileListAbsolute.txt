@@ -1,0 +1,16 @@
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.exe
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.csprojAssemblyReference.cache
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.AssemblyInfoInputs.cache
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.AssemblyInfo.cs
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.deps.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.runtimeconfig.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.runtimeconfig.dev.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.dll
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\teste1.pdb
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.csproj.CopyComplete
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.dll
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.pdb
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.genruntimeconfig.cache
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\teste1.csproj.CoreCompileInputs.cache

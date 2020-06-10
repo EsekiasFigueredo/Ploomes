@@ -1,0 +1,17 @@
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.exe
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.csprojAssemblyReference.cache
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.AssemblyInfoInputs.cache
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.AssemblyInfo.cs
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.csproj.CopyComplete
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.deps.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.runtimeconfig.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.runtimeconfig.dev.json
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.dll
+C:\Users\Esequias\source\repos\teste1\teste1\bin\Debug\netcoreapp3.1\TesteApiPloomes.pdb
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.csproj.CoreCompileInputs.cache
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.sourcelink.json
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.dll
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.pdb
+C:\Users\Esequias\source\repos\teste1\teste1\obj\Debug\netcoreapp3.1\TesteApiPloomes.genruntimeconfig.cache

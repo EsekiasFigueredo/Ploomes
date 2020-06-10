@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbN1u8u2qL+sjWtBMbgDHmXHfoykuK+L5O8h4B25gBsHU5qX1pzs3QZsRxU30Fd8ESjiHQlRkHIWmv8YFAY3Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Esequias\\source\\repos\\teste1\\teste1\\TesteApiPloomes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Esequias\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\Esequias\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Esequias\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
